@@ -1,0 +1,25 @@
+{
+  "name": "elm-training",
+  "version": "1.0.0",
+  "description": "Elm Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukwksk/elm-training.git"
+  },
+  "keywords": [
+    "elm"
+  ],
+  "author": "ukwksk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukwksk/elm-training/issues"
+  },
+  "homepage": "https://github.com/ukwksk/elm-training#readme",
+  "devDependencies": {
+    "elm": "^0.19.0-bugfix2"
+  }
+}
